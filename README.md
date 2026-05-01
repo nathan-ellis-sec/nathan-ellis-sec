@@ -27,3 +27,6 @@ All verified on Credly: https://www.credly.com/users/nathan-ellis.1bc40d83
 
 ## Career Goal
 Transition from SOC Analyst → Zero Trust Security Engineer with a strong foundation in Zscaler, identity, and automation.
+
+## Connect With Me
+- LinkedIn: https://www.linkedin.com/in/nathan-e-640b0a40
