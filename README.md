@@ -25,6 +25,17 @@ All verified on Credly: https://www.credly.com/users/nathan-ellis.1bc40d83
 - CompTIA CySA+
 - Zscaler ZDTA
 
+## Skills
+- Threat detection, alert triage, and incident investigation
+- Zero Trust security fundamentals
+- Zscaler technologies (ZIA, ZPA, ZDX)
+- Identity and access management (Azure AD / Entra ID)
+- SIEM/UEBA investigation workflows (Securonix)
+- EDR investigation (SentinelOne) 
+- Open XDR analysis experience (Stellar Cyber)
+- Python for security automation (actively learning)
+- Hands-on cyber range experience (RangeForce: Splunk, Linux, IR, threat analysis, etc.)
+
 ## Career Goal
 Transition from SOC Analyst → Zero Trust Security Engineer with a strong foundation in Zscaler, identity, and automation.
 
