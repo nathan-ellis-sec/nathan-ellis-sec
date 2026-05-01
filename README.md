@@ -16,7 +16,7 @@ I’m currently expanding into Zero Trust Security Engineering with a focus on Z
 - **Identity-Access-Lab**
 
 ## Certifications
-All verified on Credly: https://www.credly.com/users/nathan-ellis
+All verified on Credly: https://www.credly.com/users/nathan-ellis.1bc40d83
 
 - ISC2 Certified in Cybersecurity (CC)
 - CompTIA A+
