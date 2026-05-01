@@ -15,5 +15,15 @@ I’m currently expanding into Zero Trust Security Engineering with a focus on Z
 - **Zscaler-Zero-Trust-Learning-Journal**
 - **Identity-Access-Lab**
 
+## Certifications
+All verified on Credly: https://www.credly.com/users/nathan-ellis
+
+- ISC2 Certified in Cybersecurity (CC)
+- CompTIA A+
+- CompTIA Network+
+- CompTIA Security+
+- CompTIA CySA+
+- Zscaler ZDTA
+
 ## Career Goal
 Transition from SOC Analyst → Zero Trust Security Engineer with a strong foundation in Zscaler, identity, and automation.
