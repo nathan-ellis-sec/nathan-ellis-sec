@@ -1,16 +1,19 @@
-## Hi there 👋
+## Welcome - I'm Nathan
 
-<!--
-**nathan-ellis-sec/nathan-ellis-sec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+After nineteen years in the restaurant industry — including roles as General Manager and Assistant General Manager at one of the top restaurants in the country — I transitioned into cybersecurity. I’m now a Tier l SOC Analyst at a growing startup, focusing on threat detection, incident triage, and Zero Trust security principles.
 
-Here are some ideas to get you started:
+I’m currently expanding into Zero Trust Security Engineering with a focus on Zscaler technologies (ZIA, ZPA, ZDX) and identity‑driven access controls.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## What I'm Working On
+- Zero Trust architecture fundamentals
+- Zscaler ZDTA / ZDTE learning and labs
+- SOC automation using Python
+- Identity and access management (Azure AD / Entra ID)
+
+## Featured Repositories
+- **SOC-Automation-Scripts**
+- **Zscaler-Zero-Trust-Learning-Journal**
+- **Identity-Access-Lab**
+
+## Career Goal
+Transition from SOC Analyst → Zero Trust Security Engineer with a strong foundation in Zscaler, identity, and automation.
